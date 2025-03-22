@@ -1,6 +1,14 @@
+altgraph==0.17.4
+packaging==24.2
+Pygments==2.19.1
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.1
 PyQt6==6.8.1
-PyQt6-sip==13.10.0
+PyQt6-QScintilla==2.14.1
 PyQt6-Qt6==6.8.2
-
-# If using PySide6 instead of PyQt6, uncomment the following lines:
-# PySide6==6.8.0
+PyQt6_sip==13.10.0
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+setuptools==77.0.3
+shiboken6==6.8.2.1
