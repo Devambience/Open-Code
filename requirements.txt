@@ -1,0 +1,6 @@
+PyQt6==6.8.1
+PyQt6-sip==13.10.0
+PyQt6-Qt6==6.8.2
+
+# If using PySide6 instead of PyQt6, uncomment the following lines:
+# PySide6==6.8.0
