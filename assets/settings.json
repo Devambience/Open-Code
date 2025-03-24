@@ -1,0 +1,33 @@
+{
+    "font_family": "Fira Code",
+    "font_size": 12,
+    "tab_width": 4,
+    "editor_bg": "#282c34",
+    "editor_fg": "#abb2bf",
+    "line_number_bg": "#21252b",
+    "line_number_color": "#495162",
+    "current_line_bg": "#2c313c",
+    "selection_bg": "#3e4451",
+    "bracket_highlight_bg": "#3d4148",
+    "features": {
+        "bracket_matching": true,
+        "auto_indent": true,
+        "show_whitespace": false,
+        "word_wrap": false
+    },
+    "syntax": {
+        "chalky": "#e5c07b",
+        "coral": "#e06c75",
+        "dark": "#5c6370",
+        "error": "#f44747",
+        "fountainBlue": "#56b6c2",
+        "green": "#98c379",
+        "invalid": "#ffffff",
+        "lightDark": "#7f848e",
+        "lightWhite": "#abb2bf",
+        "malibu": "#61afef",
+        "purple": "#c678dd",
+        "whiskey": "#d19a66",
+        "deepRed": "#be5046"
+    }
+}
