@@ -25,9 +25,9 @@ class CodeIDE(QMainWindow):
         self.setMenuBar(create_menu_bar(self))
         
         # Create a search toolbar with a centered search bar.
-        self.search_bar = QLineEdit()
-        self.search_bar.setPlaceholderText("Search across files...")
-        self.init_search_toolbar()
+        # self.search_bar = QLineEdit()
+        # self.search_bar.setPlaceholderText("Search across files...")
+        # self.init_search_toolbar()
 
         # Set up the central widget and layout.
         self.central_widget = QWidget()
